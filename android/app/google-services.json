@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "286355878091",
+    "project_id": "trenzproject",
+    "storage_bucket": "trenzproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286355878091:android:6a330ad6c8b827fc762b4e",
+        "android_client_info": {
+          "package_name": "com.example.fashion_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286355878091-31vjt03mj0o35i2bflau1uug69m2rt76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjR3K1qgC-79uOYFrengkGvmca8fSU00A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286355878091-31vjt03mj0o35i2bflau1uug69m2rt76.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286355878091-ecd1nofah5f7ubmi9m5smibnbbldtfkn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fashionStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
