@@ -26,7 +26,6 @@ class _HomeState extends State<Home> {
             children: [
               const SizedBox(height: 10),
 
-              /// App Title
               Text(
                 "TrendZ",
                 style: TextStyle(
@@ -38,7 +37,6 @@ class _HomeState extends State<Home> {
 
               const SizedBox(height: 12),
 
-              /// Search Bar
               Container(
                 height: 45,
                 decoration: BoxDecoration(
@@ -57,7 +55,6 @@ class _HomeState extends State<Home> {
 
               const SizedBox(height: 12),
 
-              /// Product Grid
               Expanded(
                 child: GridView.builder(
                   gridDelegate:
